@@ -1,0 +1,10 @@
+c:\users\phool\documents\visual studio 2013\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+c:\users\phool\documents\visual studio 2013\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+c:\users\phool\documents\visual studio 2013\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+c:\users\phool\documents\visual studio 2013\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.xml
+c:\users\phool\documents\visual studio 2013\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.form1.resources
+c:\users\phool\documents\visual studio 2013\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.Resources.resources
+c:\users\phool\documents\visual studio 2013\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.vbproj.GenerateResource.Cache
+c:\users\phool\documents\visual studio 2013\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+c:\users\phool\documents\visual studio 2013\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.xml
+c:\users\phool\documents\visual studio 2013\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
